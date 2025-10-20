@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   courses:
     name: "Math 111"
-    weight: 1
+    weight: 2
 ---
 
 ## Solutions to Quizzes/Exams.
