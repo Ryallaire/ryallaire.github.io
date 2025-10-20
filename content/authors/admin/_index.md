@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Ryan H. Allaire
+slug: "about"   # <- add this line
 avatar_image: "img/linkedin_photo_circle.png"
 # Username (this should match the folder name)
 authors:
