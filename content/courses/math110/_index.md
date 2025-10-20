@@ -16,7 +16,12 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  math110:
+  main:
+    name: "Math 110"
+    parent: "teaching"  # <- matches identifier in menus.toml
+    url: "/courses/math110/"
+    weight: 1
+  math110:    # this is your section's LEFT sidebar menu
     name: "Overview"
     weight: 1
 ---

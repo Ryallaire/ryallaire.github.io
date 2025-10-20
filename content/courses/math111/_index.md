@@ -16,6 +16,11 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
+  main:
+    name: "Math 111"
+    parent: "teaching"
+    url: "/courses/math111/"
+    weight: 2
   math111:
     name: "Overview"
     weight: 2
