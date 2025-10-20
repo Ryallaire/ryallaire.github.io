@@ -46,17 +46,17 @@
    weight = 70
 
 # Submenu for the Courses section:
-[[courses]]
-  name = "Math 110"
-  url  = "/courses/math110/"
-  weight = 1
+#[[courses]]
+#  name = "Math 110"
+#  url  = "/courses/math110/"
+#  weight = 1
 
-[[courses]]
-  name = "Math 111"
-  url  = "/courses/math111/"
-  weight = 2
+#[[courses]]
+#  name = "Math 111"
+#  url  = "/courses/math111/"
+#  weight = 2
 
-[[courses]]
-  name = "Math 112"
-  url  = "/courses/math112/"
-  weight = 3
+#[[courses]]
+#  name = "Math 112"
+#  url  = "/courses/math112/"
+#  weight = 3
