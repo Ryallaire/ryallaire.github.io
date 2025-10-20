@@ -10,7 +10,7 @@ title = "Ryan H. Allaire's Website"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # baseURL = "/" 
-baseURL = "https://web.njit.edu/~rha25/"
+baseURL = "https://ryallaire.github.io/"
 
 ## For Creating a localwebsite only. 
 # relativeURLs = false
