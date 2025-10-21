@@ -83,7 +83,7 @@ user_groups:
 
 <!-- Outside of research, I enjoy daily jogging and cycling and, in general, love everything outdoors. I am obsessed with coffee and am a novice coffee roaster.  -->
 
-I am an assistant professor in the Department of Mathematical Sciences at the United States Military Academy, West Point. He currently serves as a department academic counselor, course director for MA365, and a department co-advisor for the Math Forum. 
+Ryan Allaire is assistant professor in the Department of Mathematical Sciences at the United States Military Academy, West Point. He currently serves as a department academic counselor, course director for MA365, and a department co-advisor for the Math Forum. 
 
 He pursued his higher education as a true New Jersey native, earning an A.S. in mathematics from Mercer County Community College in 2010 and a B.A. in mathematics from Rutgers University, New Brunswick, in 2012. He began his graduate education at Montclair State University, where he studied fluid dynamics, eventually earning his M.S. in pure and applied mathematics in 2015. 
 
