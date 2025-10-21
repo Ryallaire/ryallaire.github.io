@@ -15,12 +15,12 @@ btn:
 superuser: true
 
 # Role/position
-role: Math PhD student
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: The New Jersey Institute of Technology
-  url: "https://www.njit.edu/"
+- name: United States Military Academy (West Point)
+  url: "https://www.usma.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD
